@@ -19,3 +19,4 @@ public class leetcode1_two_sum {
 
 //time:O(n)
 //space: O(n)
+//difficulty: easy
